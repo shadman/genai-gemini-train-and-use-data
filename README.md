@@ -1,5 +1,5 @@
-# genai-gemini-train-and-use-data
-Web Scrape News Articles for Elections to train AI agent, use Gemini AI model to get analyze and answer for queries
+# Gen AI Gemini Train and Use Data for Prompts
+Web Scrape News Articles for Elections to train AI agents, use the Gemini AI model to analyze and answer queries
 
 ## Install dependencies
 > google.generativeai
@@ -44,7 +44,7 @@ To find information on Biden and Trump debates, you could:
 Keep in mind that the text focuses on the broader political landscape, and doesn't specifically detail a Biden-Trump debate.
 
 
-# Get started
+## Get started
 - https://aistudio.google.com/app/apikey
 - https://colab.research.google.com/
 - https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemini-api/docs/get-started/python.ipynb#scrollTo=5b4Hkfj-pm3p
