@@ -2,10 +2,10 @@
 Web Scrape News Articles for Elections to train AI agents, use the Gemini AI model to analyze and answer queries
 
 ## Install dependencies
-> google.generativeai
-> pip install IPython
-> pip install requests
-> pip install beautifulsoup4
+pip google.generativeai
+pip install IPython
+pip install requests
+pip install beautifulsoup4
 
 ## API Key
 Set Env or update API KEY on line number 12, file genai-query-with-prompt.py with yours
